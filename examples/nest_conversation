@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T09:46:57.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="YWmq7BwhySMzdj2YJesu" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T09:55:37.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Q1Fwn_hPrjoJ0wzXVgtv" version="24.0.7" type="github">
   <diagram name="Page-1" id="i7Etuut7kSWQZovIWZQy">
-    <mxGraphModel dx="10567" dy="3969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="12134" dy="4838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2405,8 +2405,8 @@
         <mxCell id="hG2WedEVmQOd_tP1i04M-197" value="lưu plan và trờ về start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-6766" y="-2880" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hG2WedEVmQOd_tP1i04M-198" value="SAVE_NORMAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-6480" y="-2495" width="120" height="30" as="geometry" />
+        <mxCell id="hG2WedEVmQOd_tP1i04M-198" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-6130" y="-2630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hG2WedEVmQOd_tP1i04M-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hG2WedEVmQOd_tP1i04M-199" target="hG2WedEVmQOd_tP1i04M-178" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2647,6 +2647,24 @@
         </mxCell>
         <mxCell id="8zjAhbjz_mqqbXwFMVU3-20" value="TYPE_LAT_LONG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-6890.5" y="-1530" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-21" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6141" y="-2890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-22" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5890" y="-2045" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-23" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5910" y="-2180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-24" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-5800" y="-1585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-27" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6040" y="-1448.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zjAhbjz_mqqbXwFMVU3-30" value="END" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6040.5" y="-1255" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
